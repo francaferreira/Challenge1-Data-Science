@@ -1,5 +1,6 @@
 
 # 📊 Relatório Final Otimizado: Análise Estratégica para Venda de Lojas Virtuais
+**👤 Destinatário:** Senhor João  
 
 Um relatório estratégico para apoiar a decisão de venda de uma das quatro lojas virtuais, baseado em dados do último trimestre de 2023.
 
@@ -47,7 +48,6 @@ Este relatório visa **auxiliar a decisão estratégica** sobre qual loja virtua
 - **Lojas 1 e 2**: Dominadas por **Acessórios (35%)** e **Celulares (40%)**.
 - **Loja 4**: Eletrodomésticos (18%) com baixa participação em categorias estratégicas.
 
-![Gráfico de Categorias](caminho/para/imagem.png)
 
 ---
 
